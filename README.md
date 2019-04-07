@@ -1,9 +1,3 @@
-# Embedded application template
-
-## Requirements
-
-None
-
 ## Usage
 
 To clone **and** deploy the project in one command, use `mbed import` and skip to
@@ -68,14 +62,6 @@ Alternatively:
     python dist/program.py STM32L496RG BUILD/ZEST_CORE_STM32L496RG/GCC_ARM/YOUR_PROJECT_NAME.elf
     ```
 
-## Manage and save your project with Git
-
-* Edit `README.md` file
-
-* Modify remote URL to point to your repository and push the application template:
-
-    ```sh
-    git remote set-url origin YOUR_REPOSITORY_URL
-    git push -u origin master
-    ```
 # Projet-IoT
+
+Plante connectée (Damien ORLANDO/Verner BOISSON)
